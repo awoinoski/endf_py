@@ -3,3 +3,5 @@ LICENSE
 *.endf
 *.md
 thermal_scatt-version.VIII.1/
+*.jpg
+.par
